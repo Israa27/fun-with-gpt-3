@@ -1,1 +1,1 @@
-# fun-with-gpt-3
+# giphy-api
